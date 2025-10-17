@@ -1,6 +1,9 @@
 # IDAI102-2505464--Poojan_Magnani
 Eco-conscious shoppers, students learning sustainability, anyone wanting to reduce their carbon footprint while managing their budget effectively.
 
+# 📖 About 
+ShopImpact is a web application that helps you understand the environmental impact of your purchases. It's like having a friendly eco-advisor in your pocket! Every time you buy something, you can log it and see exactly how much CO₂ it generated. Plus, you get personalized tips on how to make greener choices. I built this because I wanted to be more conscious about my shopping habits but found most carbon calculators boring and complicated. ShopImpact makes sustainability fun with badges, turtle graphics, and real-time feedback!
+
 # 🌍 Project Overview
 In a world where consumption is constant, it’s easy to lose track of how much our purchases affect the planet. ShopImpact transforms your shopping data into meaningful insights — showing your carbon footprint, spending behavior, and sustainability progress — all in a sleek Streamlit-powered dashboard.
 
